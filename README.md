@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaiChand440
 - 👀 I’m interested in AndroidDevelopment
-- 🌱 I’m currently learning Flutter and Android Architecture
-- 💞️ I’m looking to collaborate on open source flutter and kotlin projects
+- 🌱 I’m currently learning React Native and Android Architecture
+- 💞️ I’m looking to collaborate on open source ReactNative and kotlin projects
 - 📫 How to reach me # https://www.linkedin.com/in/sai-chand-856b76157/
 
 <!---
